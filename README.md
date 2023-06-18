@@ -4,4 +4,3 @@ Functionality:
 -Remove Contact
 -Edit Contact
 # react-contact-manager
-# react-contact-manager
